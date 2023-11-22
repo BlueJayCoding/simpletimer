@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpletimer/static/css/main.fb3e9733.css",
+    "main.js": "/simpletimer/static/js/main.cc971a5a.js",
+    "static/js/787.efdf1df1.chunk.js": "/simpletimer/static/js/787.efdf1df1.chunk.js",
+    "index.html": "/simpletimer/index.html",
+    "main.fb3e9733.css.map": "/simpletimer/static/css/main.fb3e9733.css.map",
+    "main.cc971a5a.js.map": "/simpletimer/static/js/main.cc971a5a.js.map",
+    "787.efdf1df1.chunk.js.map": "/simpletimer/static/js/787.efdf1df1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb3e9733.css",
+    "static/js/main.cc971a5a.js"
+  ]
+}
